@@ -1,0 +1,28 @@
+.hidden {
+    display: none;
+}
+.show {
+    height: unset;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+.name {
+    font-family: consolas;
+    color: lightgreen;
+}
+hr {
+    outline: none;
+    border: 2px solid black;
+    background-color: black;
+    width: 90%;
+    opacity: .1;
+    border-radius: 333333px;
+    
+
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
